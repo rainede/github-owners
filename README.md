@@ -4,8 +4,8 @@
 
 ## Usage
 
-1. **[Install the integration](https://github.com/integration/owners)**.
-2. Create a [`OWNERS`](/OWNERS) file in your repository.
+1. **[Install the integration](https://github.com/integration/labour-github-owner-bot)**.
+2. Create a file named [`OWNERS`](/OWNERS) file in your repository.
 3. Wait for new Pull Requests to be opened
 
 See [docs/deploy.md](docs/deploy.md) if you would like to run your own instance of this plugin.
