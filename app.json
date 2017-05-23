@@ -2,7 +2,7 @@
   "name": "github-owners",
   "description": "@mention maintainers in Pull Requests based on contents of the OWNERS file.",
   "keywords": ["node", "github"],
-  "repository": "https://github.com/bkeepers/github-owners",
+  "repository": "https://github.com/labourdigital/github-owners",
   "env": {
     "PRIVATE_KEY": {
       "description": "the private key you downloaded when creating the GitHub Integration"
