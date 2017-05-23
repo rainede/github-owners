@@ -20,8 +20,8 @@ You can deploy your own copy of the app using this *button*:
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Command Line](https://devcenter.heroku.com/articles/heroku-cli) installed and in your terminal/command line tools, clone and run the app:
 
 ```sh
-git clone git@github.com:heroku/button-sample.git # or clone your own fork
-cd button-sample
+git clone git@github.com:heroku/github-owners.git # or clone your own fork
+cd github-owners
 npm install
 npm start
 ```
