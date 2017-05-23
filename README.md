@@ -13,7 +13,7 @@ See [docs/deploy.md](docs/deploy.md) if you would like to run your own instance 
 ## Deploying to Heroku via one click:
 You can deploy your own copy of the app using this *button*:
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://www.heroku.com/deploy/?template=https://www.heroku.com/deploy/?template=https://github.com/labourdigital/github-owners)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://www.heroku.com/deploy/?template=https://github.com/labourdigital/github-owners)
 
 ## Running Locally and then deploying:
 
